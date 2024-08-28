@@ -36,9 +36,8 @@ The **eLibrary DApp** aims to revolutionize the traditional library system by le
 
 ### Contract Address
 
-- **Ethereum Mainnet**: `0xYourContractAddressHere`
+- **Ethereum Mainnet**: `0xf8e81D47203A594245E36C48e151709F0C19fBe8`
 
-*(Replace `0xYourContractAddressHere` with the actual contract address once deployed.)*
 
 ### How to Interact
 
@@ -58,10 +57,8 @@ The **eLibrary DApp** aims to revolutionize the traditional library system by le
 
 For any inquiries or contributions, please reach out:
 
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Name**: Ashraful Haque
+- **Email**: 786ashrafulhaque@gmail.com
 
 ---
 
